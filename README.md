@@ -2,7 +2,7 @@ Sure, here's a template for your Front End project's Read Me file content:
 
 # Book Rental Application - Front End
 
-Welcome to the front end repository of the Book Rental Application! This application allows users to rent books for a 7-day period, integrates with Stripe's payment gateway for secure payments, offers user authentication through Okta IDP for enhanced security, and provides various features to streamline the library management process.
+Welcome to the front-end repository of the Book Rental Application! This application allows users to rent books for a 7-day period, integrates with Stripe's payment gateway for secure payments, offers user authentication through Okta IDP for enhanced security, and provides various features to streamline the library management process.
 
 ## Features
 
@@ -25,13 +25,13 @@ Follow these steps to set up the front end of the Book Rental Application:
 1. Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/book-rental-frontend.git
+   git clone https://github.com/YashDahat/Library_App_FrontEnd.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd book-rental-frontend
+   cd react-library
    ```
 
 3. Install the necessary dependencies:
@@ -48,7 +48,7 @@ Follow these steps to set up the front end of the Book Rental Application:
    npm start
    ```
 
-6. Access the application by opening your browser and navigating to `http://localhost:3000`.
+6. Access the application by opening your browser and navigating to `https://localhost:3000`.
 
 ## Contributing
 
