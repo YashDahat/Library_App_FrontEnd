@@ -1,5 +1,3 @@
-Sure, here's a template for your Front End project's Read Me file content:
-
 # Book Rental Application - Front End
 
 Welcome to the front-end repository of the Book Rental Application! This application allows users to rent books for a 7-day period, integrates with Stripe's payment gateway for secure payments, offers user authentication through Okta IDP for enhanced security, and provides various features to streamline the library management process.
