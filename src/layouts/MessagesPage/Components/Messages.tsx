@@ -30,6 +30,7 @@ export const Messages = () => {
                     throw new Error('Something went wrong!');
                 }
                 const messagesResponseJson = await messagesResponse.json();
+                console.log("Message Response in Json:"+ messagesResponseJson._embedded.messages);
                 setMessages(messagesResponseJson._embedded.messages);
                 setTotalPages(messagesResponseJson.page.totalPages);
             }
